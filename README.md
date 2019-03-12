@@ -25,7 +25,7 @@ npm run client
 
 ## App Info
 
-### Authors
+### Author
 
 Warren D. Rezane
 
